@@ -111,6 +111,3 @@ This project serves as my first comprehensive full-stack application at Epitech,
 This is a school project created for educational purposes.
 
 ---
-
-**Created**: November 3rd  
-**School**: Epitech
